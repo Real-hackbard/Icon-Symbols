@@ -11,6 +11,8 @@
 
 </br>
 
+Icons as parts of the [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) of a computer system, in conjunction with windows, menus and a [pointing device](https://en.wikipedia.org/wiki/Pointing_device) (mouse), belong to the much larger topic of the [history of the graphical user interface](https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface) that has largely supplanted the text-based interface for casual use.
+
 
 
 
