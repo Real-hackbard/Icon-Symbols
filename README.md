@@ -29,6 +29,8 @@ An ICO or CUR file is made up of an ICONDIR ("Icon directory") structure, contai
 
 All values in ICO/CUR files are represented in little-endian byte order.
 
+<br>
+
 | Offset (bytes)	 | Field | Size (bytes) | Description |
 | :------------ | :------------ | :------------ | :------------ |
 | 0     | bWidth     | 1     | Zelle 1,3     |
@@ -40,6 +42,6 @@ All values in ICO/CUR files are represented in little-endian byte order.
 | 8     | dwBytesInRes     | 4     | Zelle 1,3     |
 | 12     | dwImageOffset     | 4     | Zelle 1,3     |
 
-
+<br>
 
 
