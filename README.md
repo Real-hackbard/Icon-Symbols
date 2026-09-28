@@ -14,12 +14,11 @@
 Icons as parts of the [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) of a computer system, in conjunction with windows, menus and a [pointing device](https://en.wikipedia.org/wiki/Pointing_device) (mouse), belong to the much larger topic of the [history of the graphical user interface](https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface) that has largely supplanted the text-based interface for casual use.
 
 <br>
-<br>
 
 <img src="https://github.com/user-attachments/assets/19ac01bb-ca74-456d-b2cc-f8a2e1c6b2e6" />
 
 <br>
-
+<br>
 
 Icons introduced in [Windows 1.0](https://en.wikipedia.org/wiki/Windows_1.0) were monochrome; in Windows 1.x and 2.x, ICO and CUR files were raw binary images with no directory wrapper: 678  — each file contained a single such image, at 64×64 pixels for icons and 32×32 for cursors.: 134  The 64×64 icon size was designed for a 1024×1024 target display and was shown downscaled on the lower-resolution monitors of the era.
 
