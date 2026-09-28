@@ -68,15 +68,17 @@ The application icons, in particular, colourfully represent a wide variety of co
 # :speech_balloon: Icon size and color-depth timeline
 The standard color depths and pixel sizes shipped in system icons changed over successive releases, as summarized below.
 
+<br>
+
 | Überschrift 1 | Überschrift 2 | Überschrift 3 | Überschrift 3 |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| Windows 1.x–2.x     | Zelle 1,2     | Zelle 1,3     | Zelle 1,3     |
-| Windows 3.x / NT 3.x     | Zelle 2,2     | Zelle 2,3     | Zelle 2,3     |
-| Windows 95     | Zelle 1,2     | Zelle 1,3     | Zelle 1,3     |
-| Windows NT 4.0 / 98 / Me / 2000     | Zelle 2,2     | Zelle 2,3     | Zelle 2,3     |
-| Windows XP     | Zelle 1,2     | Zelle 1,3     | Zelle 1,3     |
-| Windows Vista / 7     | Zelle 2,2     | Zelle 2,3     | Zelle 2,3     |
-| Windows 8 / 8.1     | Zelle 1,2     | Zelle 1,3     | Zelle 1,3     |
-| Windows 10 / 11     | Zelle 2,2     | Zelle 2,3     | Zelle 2,3     |
+| Windows 1.x–2.x     | 2     | Zelle 1,3     | Zelle 1,3     |
+| Windows 3.x / NT 3.x     | 1,4     | Zelle 2,3     | Zelle 2,3     |
+| Windows 95     | 4     | Zelle 1,3     | Zelle 1,3     |
+| Windows NT 4.0 / 98 / Me / 2000     | 4,8     | Zelle 2,3     | Zelle 2,3     |
+| Windows XP     | Zelle 1,2     | 4, 8, 32     | Zelle 1,3     |
+| Windows Vista / 7     | 4, 8, 32     | Zelle 2,3     | Zelle 2,3     |
+| Windows 8 / 8.1     | 4, 8, 32     | Zelle 1,3     | Zelle 1,3     |
+| Windows 10 / 11     | 32     | Zelle 2,3     | Zelle 2,3     |
 
 
