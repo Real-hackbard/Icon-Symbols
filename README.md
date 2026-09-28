@@ -31,14 +31,14 @@ All values in ICO/CUR files are represented in little-endian byte order.
 
 | Offset (bytes)	 | Field | Size (bytes) | Description |
 | :------------ | :------------ | :------------ | :------------ |
-| 0     | Zelle 1,2     | Zelle 1,3     | Zelle 1,3     |
-| 1     | Zelle 2,2     | Zelle 2,3     | Zelle 1,3     |
-| 2     | Zelle 1,2     | Zelle 1,3     | Zelle 1,3     |
-| 3     | Zelle 2,2     | Zelle 2,3     | Zelle 1,3     |
-| 4     | Zelle 1,2     | Zelle 1,3     | Zelle 1,3     |
-| 6     | Zelle 2,2     | Zelle 2,3     | Zelle 1,3     |
-| 8     | Zelle 1,2     | Zelle 1,3     | Zelle 1,3     |
-| 12     | Zelle 2,2     | Zelle 2,3     | Zelle 1,3     |
+| 0     | bWidth     | Zelle 1,3     | Zelle 1,3     |
+| 1     | bHeight     | Zelle 2,3     | Zelle 1,3     |
+| 2     | bColorCount     | Zelle 1,3     | Zelle 1,3     |
+| 3     | bReserved     | Zelle 2,3     | Zelle 1,3     |
+| 4     | wPlanes     | Zelle 1,3     | Zelle 1,3     |
+| 6     | wBitCount     | Zelle 2,3     | Zelle 1,3     |
+| 8     | dwBytesInRes     | Zelle 1,3     | Zelle 1,3     |
+| 12     | dwImageOffset     | Zelle 2,3     | Zelle 1,3     |
 
 
 
