@@ -44,4 +44,11 @@ All values in ICO/CUR files are represented in little-endian byte order.
 
 <br>
 
+# :speech_balloon: Examples
+Icons (here are four examples from the [Nuvola icon theme](https://de.wikipedia.org/wiki/Nuvola)) are usually square and come in certain standard sizes.
 
+<br>
+
+<img src="https://github.com/user-attachments/assets/d9887c6d-1b62-4c69-a5bd-0d69a07fbe6f" />
+
+<br>
