@@ -1,5 +1,5 @@
 
-# :computer :Icon-Symbols
+# :computer: Icon-Symbols
 
 </br>
 
