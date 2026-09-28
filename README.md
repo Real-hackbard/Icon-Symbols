@@ -22,7 +22,12 @@ Icons as parts of the [graphical user interface](https://en.wikipedia.org/wiki/G
 
 Icons introduced in [Windows 1.0](https://en.wikipedia.org/wiki/Windows_1.0) were monochrome; in Windows 1.x and 2.x, ICO and CUR files were raw binary images with no directory wrapper: 678  — each file contained a single such image, at 64×64 pixels for icons and 32×32 for cursors.: 134  The 64×64 icon size was designed for a 1024×1024 target display and was shown downscaled on the lower-resolution monitors of the era.
 
+<br>
 
+# :speech_balloon:v Structure
+An ICO or CUR file is made up of an ICONDIR ("Icon directory") structure, containing an ICONDIRENTRY structure for each image in the file, followed by a contiguous block of all image data. Each image is stored either as a raw [DIB](https://en.wikipedia.org/wiki/BMP_file_format) (see [DIB format](https://en.wikipedia.org/wiki/ICO_(file_format)#DIB_format)) or as a complete [PNG](https://en.wikipedia.org/wiki/PNG) file (see [PNG format](https://en.wikipedia.org/wiki/ICO_(file_format)#PNG_format)). It is customary practice to store the image data in the same order as the entries in the image directory.
+
+All values in ICO/CUR files are represented in little-endian byte order.
 
 
 
