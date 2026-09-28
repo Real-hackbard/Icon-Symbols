@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.797,D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\uMain.pas=D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\IconTest.dproj=D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\IconSave.dfm=D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\uSave.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\Demo\FWIconTest.dproj=D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\Demo\IconTest.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\uMain.dfm=D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\IconSave.pas=D:\Incoming\[.WORK]\IconEx\JEDI.IconEx\uSave.pas</Transaction>
+  </Transactions>
+</BorlandProject>
