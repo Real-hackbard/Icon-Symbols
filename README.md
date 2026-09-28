@@ -56,3 +56,15 @@ The application icons, in particular, colourfully represent a wide variety of co
 <img src="https://github.com/user-attachments/assets/d9887c6d-1b62-4c69-a5bd-0d69a07fbe6f" />
 
 <br>
+
+### Windows Notepad Editor
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/4a2e54cd-68a0-4a6d-80e8-0268e69631d5" />
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/6ed37e11-9c15-40fb-9f9e-803f5ccbb30d" />
+
+<br>
