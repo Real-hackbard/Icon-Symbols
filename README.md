@@ -37,8 +37,7 @@ All values in ICO/CUR files are represented in little-endian byte order.
 | 1     | bHeight     | 1     | Image height in pixels. Can be any number between 0 and 255. 0 means height is 256.     |
 | 2     | bColorCount     | 1     | Number of colors in the color table. For paletted depths: 2 for 1 bpp, 16 for 4 bpp; 0 for 8 bpp and above. An incorrect value affects [image selection scoring](https://en.wikipedia.org/wiki/ICO_(file_format)#Image_selection) for icons.     |
 | 3     | bReserved     | 1     | Reserved. Must be 0.     |
-| 4     | wPlanes     | 2     | * In icon format: Specifies color planes. Should be 0 or 1.
-* In cursor format: Specifies the horizontal coordinates of the hotspot in number of pixels from the left.     |
+| 4     | wPlanes     | 2     | In icon format: Specifies color planes. Should be 0 or 1. In cursor format: Specifies the horizontal coordinates of the hotspot in number of pixels from the left.     |
 | 6     | wBitCount     | 2     | Zelle 1,3     |
 | 8     | dwBytesInRes     | 4     | Zelle 1,3     |
 | 12     | dwImageOffset     | 4     | Zelle 1,3     |
