@@ -40,7 +40,7 @@ All values in ICO/CUR files are represented in little-endian byte order.
 | 4     | wPlanes     | 2     | In icon format: Specifies color planes. Should be 0 or 1. In cursor format: Specifies the horizontal coordinates of the hotspot in number of pixels from the left.     |
 | 6     | wBitCount     | 2     | In icon format: Specifies bits per pixel. In cursor format: Specifies the vertical coordinates of the hotspot in number of pixels from the top.     |
 | 8     | dwBytesInRes     | 4     | Image data size in bytes.     |
-| 12     | dwImageOffset     | 4     | Zelle 1,3     |
+| 12     | dwImageOffset     | 4     | Specifies the [offset](https://en.wikipedia.org/wiki/Offset_(computer_science)) of the DIB or PNG data from the beginning of the ICO/CUR file.     |
 
 <br>
 
