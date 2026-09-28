@@ -24,7 +24,7 @@ Icons introduced in [Windows 1.0](https://en.wikipedia.org/wiki/Windows_1.0) wer
 
 <br>
 
-# :speech_balloon:v Structure
+# :speech_balloon: Structure
 An ICO or CUR file is made up of an ICONDIR ("Icon directory") structure, containing an ICONDIRENTRY structure for each image in the file, followed by a contiguous block of all image data. Each image is stored either as a raw [DIB](https://en.wikipedia.org/wiki/BMP_file_format) (see [DIB format](https://en.wikipedia.org/wiki/ICO_(file_format)#DIB_format)) or as a complete [PNG](https://en.wikipedia.org/wiki/PNG) file (see [PNG format](https://en.wikipedia.org/wiki/ICO_(file_format)#PNG_format)). It is customary practice to store the image data in the same order as the entries in the image directory.
 
 All values in ICO/CUR files are represented in little-endian byte order.
