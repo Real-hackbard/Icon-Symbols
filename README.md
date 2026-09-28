@@ -69,6 +69,8 @@ The application icons, in particular, colourfully represent a wide variety of co
 <img src="https://github.com/user-attachments/assets/6ed37e11-9c15-40fb-9f9e-803f5ccbb30d" />
 
 <br>
+<br>
+<br>
 
 # :speech_balloon: Icon size and color-depth timeline
 The standard color depths and pixel sizes shipped in system icons changed over successive releases, as summarized below.
