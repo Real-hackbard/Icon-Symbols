@@ -70,15 +70,15 @@ The standard color depths and pixel sizes shipped in system icons changed over s
 
 <br>
 
-| Überschrift 1 | Überschrift 2 | Überschrift 3 | Überschrift 3 |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| Windows 1.x–2.x     | 2     | Zelle 1,3     | Zelle 1,3     |
-| Windows 3.x / NT 3.x     | 1,4     | Zelle 2,3     | Zelle 2,3     |
-| Windows 95     | 4     | Zelle 1,3     | Zelle 1,3     |
-| Windows NT 4.0 / 98 / Me / 2000     | 4,8     | Zelle 2,3     | Zelle 2,3     |
-| Windows XP     | Zelle 1,2     | 4, 8, 32     | Zelle 1,3     |
-| Windows Vista / 7     | 4, 8, 32     | Zelle 2,3     | Zelle 2,3     |
-| Windows 8 / 8.1     | 4, 8, 32     | Zelle 1,3     | Zelle 1,3     |
-| Windows 10 / 11     | 32     | Zelle 2,3     | Zelle 2,3     |
+| Release | Color depths (bpp) | Standard sizes (px) | Notes |
+| :----------- | :----------- | :----------- | :----------- |
+| Windows 1.x–2.x     | 2     | 64 (icons), 32 (cursors)     | Raw single image, no directory     |
+| Windows 3.x / NT 3.x     | 1,4     | 32     | ICONDIR + DIB introduced; 1 bpp + 4 bpp paired     |
+| Windows 95     | 4     | 16, 32     | Higher depths supported by the shell but rarely shipped; 16 px is the small (taskbar/notification-area) icon size     |
+| Windows NT 4.0 / 98 / Me / 2000     | 4,8     | 16, 32, 48     | 8 bpp and 48 px introduced in NT 4.0; became common by 98/Me     |
+| Windows XP     | 4, 8, 32     | 16, 32, 48     | 32 bpp with alpha channel introduced     |
+| Windows Vista / 7     | 4, 8, 32     | 16, 32, 48, 256     | 256 px added, stored as PNG     |
+| Windows 8 / 8.1     | 4, 8, 32     | 16, 20, 24, 32, 40, 48, 64, 256     | Eight-size ladder completed     |
+| Windows 10 / 11     | 32     | 16, 20, 24, 32, 40, 48, 64, 256     | Shipped icons are 32 bpp only     |
 
 
