@@ -47,6 +47,10 @@ All values in ICO/CUR files are represented in little-endian byte order.
 # :speech_balloon: Examples
 Icons (here are four examples from the [Nuvola icon theme](https://de.wikipedia.org/wiki/Nuvola)) are usually square and come in certain standard sizes.
 
+Nuvola is a free software icon set under the GNU LGPL 2.1 license, created by David Vignoni. Originally created for [desktop environments](https://en.wikipedia.org/wiki/Desktop_environment) like KDE and GNOME, it is also available in packages for Windows and Mac. The final version, 1.0, contains almost 600 icons. The default set is in the PNG graphics format; an SVG version is also available.
+
+The application icons, in particular, colourfully represent a wide variety of commonplace and easily recognised objects.
+
 <br>
 
 <img src="https://github.com/user-attachments/assets/d9887c6d-1b62-4c69-a5bd-0d69a07fbe6f" />
